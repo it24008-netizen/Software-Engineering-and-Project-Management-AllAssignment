@@ -1,4 +1,9 @@
-# YOUR NAME – MATH WHIZ
+🧮 APURBO MATH WHIZ
+A Java Servlet & JDBC Math Quiz Game with a Top 10 Leaderboard
+Java Tomcat MySQL Maven IntelliJ
+
+Java Web Application Development ·
+Live Lab Test #2# APURBO – MATH WHIZ
 
 A web-based mathematical game built with **Java Servlets, JSP and JDBC (MySQL)**. Players answer four questions (prime number, modulus, two trigonometry questions), see their score out of 10, and appear on a Top 10 leaderboard.
 
